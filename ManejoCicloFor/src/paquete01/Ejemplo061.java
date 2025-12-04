@@ -41,6 +41,6 @@ public class Ejemplo061 {
             System.out.printf("%d x %d = %d\n", 4, contador, operacion);
         }
         
-        
+      
     }
 }

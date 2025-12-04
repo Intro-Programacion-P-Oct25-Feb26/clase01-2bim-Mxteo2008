@@ -16,7 +16,7 @@ public class Ejemplo001 {
      */
     public static void main(String[] args) {
         String cadenaFinal = "";
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 1000; i++) {
             
             cadenaFinal = String.format("%s%d", 
                     cadenaFinal,i);

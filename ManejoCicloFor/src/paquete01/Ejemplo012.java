@@ -25,7 +25,7 @@ public class Ejemplo012 {
         System.out.println("Ciclo con incremente de contador de 3 en 3");            
         
         for (int i = 0; i < 10; i += 3) {
-            System.out.printf("%d\n", i);
+            System.out.printf("\tCarolina%d\n", i);
         }
         
         
